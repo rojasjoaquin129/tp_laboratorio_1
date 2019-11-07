@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1572874077 source:c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\dasd.c
+
+1572831221 source:c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1572714654 c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\employee.h
+
+1572998294 source:c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1572714654 c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\linkedlist.h
+
+1572995710 c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\controller.h
+
+1572792361 c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\utn.h
+
+1572997241 source:c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1572792361 source:c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1573154976 source:c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+	"controller.h"
+
+1572714654 c:\users\joaquin\desktop\parcial nuevo\clases_de_apoyo\joaquin tp3\tp3\win_64\parser.h
+
